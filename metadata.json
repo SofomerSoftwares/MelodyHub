@@ -1,0 +1,6 @@
+{
+  "name": "MelodyHub Music Streaming",
+  "description": "A full-featured music streaming web application with user roles, playlists, likes, search, admin dashboard, music upload, and AI playlist recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
